@@ -6,7 +6,7 @@ widget: blank
 widget_id: top
 headless: true
 weight: 15
-title: Academic Template
+title: Photic Science
 subtitle: ""
 active: true
 design:
