@@ -24,8 +24,12 @@ design:
       - 20px
       - "0"
 ---
-
+## **<br>**
 
 ## Scientific consulting
 
+**<br>**
+
 Specialized in bio-optical oceanography
+
+**<br>**
