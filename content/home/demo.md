@@ -24,6 +24,8 @@ design:
       - 20px
       - "0"
 ---
-## Photic science
 
-Scientific consulting, specialized in bio-optical oceanography
+
+## Scientific consulting
+
+Specialized in bio-optical oceanography
