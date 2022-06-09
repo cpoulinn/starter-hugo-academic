@@ -13,6 +13,6 @@ social:
     link: https://www.linkedin.com/in/carina-poulin/
     icon_pack: far
     icon: linkedin
-superuser: false
+superuser: true
 ---
 lorem ipsum
