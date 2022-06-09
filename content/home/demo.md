@@ -10,7 +10,7 @@ title: Photic Science
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
