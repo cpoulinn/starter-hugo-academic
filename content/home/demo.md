@@ -30,7 +30,9 @@ design:
 
 ## **<br>**
 
-## Scientific consulting, specialized in bio-optical oceanography
+## Scientific consulting, **<br>**
+
+## specialized in bio-optical oceanography
 
 ## **<br>**
 
