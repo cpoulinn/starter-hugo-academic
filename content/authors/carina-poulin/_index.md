@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/carina-poulin/
-    icon_pack: far
+    icon_pack: fas
     icon: <i class="fa-brands fa-linkedin-in"></i>
 superuser: true
 ---
