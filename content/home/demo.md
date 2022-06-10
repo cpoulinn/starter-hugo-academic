@@ -33,4 +33,4 @@ specialized in bio-optical oceanography
 
 ![](giphy-2-.gif)
 
-[<i class="fa-solid fa-angle-down"></i>](#/about)
+[<i class="fa-solid fa-angle-down"></i>](/#about)
