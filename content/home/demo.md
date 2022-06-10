@@ -10,7 +10,7 @@ title: Scientific consulting
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
