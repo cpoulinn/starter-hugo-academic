@@ -25,10 +25,12 @@ design:
       - 20px
       - "0"
 ---
-<br>
-
 specialized in bio-optical oceanography
 <br>
+<br>
+
+<br>
+
 <br>
 
 <br>
