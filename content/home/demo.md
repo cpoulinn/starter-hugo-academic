@@ -29,4 +29,4 @@ specialized in bio-optical oceanography
 <br>
 <br>
 
-Contact [{{< icon name="envelope" pack="fas" >}}](/#contact)
+[{{< icon name="envelope" pack="fas" >}} Contact](/#contact)
