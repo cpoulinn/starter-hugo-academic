@@ -10,7 +10,7 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     gradient_start: ""
     gradient_end: ""
@@ -24,20 +24,19 @@ design:
       - "0"
       - 20px
       - "0"
-cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
-  icon_pack: fas
-  icon: download
 ---
 ## **<br>**
 
-![](g7071.png)
+![](g7089.svg)
 
 ## **<br>**
 
 ## Scientific consulting, **<br>**
 
 ## specialized in bio-optical oceanography
+
+## **<br>**
+
+## **<br>**
 
 **<br>**
