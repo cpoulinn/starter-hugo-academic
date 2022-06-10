@@ -31,6 +31,9 @@ design:
 
 specialized in bio-optical oceanography
 
-![](giphy-2-.gif)
+```
+<div style="width:100%;height:0;padding-bottom:107%;position:relative;"><iframe src="https://giphy.com/embed/bkNsvVGEC66ajL4RBQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/SaywhatBottles-transparent-bkNsvVGEC66ajL4RBQ">via GIPHY</a></p>
 
-[<i class="fa-solid fa-angle-down"></i>](/#about)
+```
+
+[](https://giphy.com/stickers/text-iphone-3tLfKrc4pLWiTkAAph)[](https://giphy.com/stickers/comic-balloon-balo-SqfmqPPNtWFRFhn6my)
