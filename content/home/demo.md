@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: true
+    text_color_light: false
     image: ""
     image_darken: 0
     color: "#ffffff"
@@ -25,18 +25,10 @@ design:
       - 20px
       - "0"
 ---
-## **<br>**
+
 
 ![](g84223.svg)
 
 ## **<br>**
 
-## Scientific consulting, **<br>**
-
-## specialized in bio-optical oceanography
-
-## **<br>**
-
-## **<br>**
-
-**<br>**
+## Scientific consulting, specialized in bio-optical oceanography
