@@ -33,11 +33,8 @@ design:
 
 specialized in bio-optical oceanography
 
-
 # <br>
 
 # <br>
 
 # <br>
-
-[{{< icon name="envelope" pack="fas" >}}](/#contact)
