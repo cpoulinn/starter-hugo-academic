@@ -12,8 +12,8 @@ active: true
 design:
   columns: "2"
   background:
-    gradient_start: ""
-    gradient_end: ""
+    gradient_start: "#00ddff"
+    gradient_end: "#ffffff"
     text_color_light: false
     image: ""
     image_darken: 0
