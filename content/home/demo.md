@@ -2,7 +2,7 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: hero
+widget: Blank
 widget_id: top
 headless: true
 weight: 15
