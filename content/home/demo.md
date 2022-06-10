@@ -27,5 +27,5 @@ design:
 ---
 
 
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+{{< cta cta_text="Contact <i class="fa-solid fa-envelope"></i>" cta_link="/" cta_new_tab="false" >}}
 {{< icon name="terminal" pack="fas" >}}
