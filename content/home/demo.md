@@ -14,15 +14,14 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: false
+    text_color_light: true
     image: ""
     image_darken: 0
     color: "#ffffff"
-  align: right
   spacing:
     padding:
       - 20px
-      - 20px
+      - "0"
       - 20px
       - "0"
 cta:
