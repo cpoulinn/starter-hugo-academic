@@ -12,8 +12,8 @@ active: true
 design:
   columns: "2"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
     image: ""
     image_darken: 0
