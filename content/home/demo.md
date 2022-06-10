@@ -6,11 +6,11 @@ widget: hero
 widget_id: top
 headless: true
 weight: 15
-title: Scientific consulting
+title: ""
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
@@ -25,6 +25,8 @@ design:
       - 20px
       - "0"
 ---
+# Scientific consulting
+
 specialized in bio-optical oceanography
 <br>
 <br>
