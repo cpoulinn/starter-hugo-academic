@@ -33,4 +33,4 @@ design:
 
 specialized in bio-optical oceanography
 
-![](giphy-1-.gif)
+![](giphy-2-.gif)
