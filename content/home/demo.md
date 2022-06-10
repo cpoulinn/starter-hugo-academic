@@ -16,7 +16,7 @@ design:
     gradient_end: ForestGreen
     text_color_light: true
     image: p3250717_2.jpg
-    image_darken: 0.6
+    image_darken: 0
   spacing:
     padding:
       - 20px
