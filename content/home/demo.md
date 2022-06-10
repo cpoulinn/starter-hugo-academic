@@ -31,4 +31,4 @@ design:
 
 specialized in bio-optical oceanography
 
-<iframe src="https://giphy.com/embed/bkNsvVGEC66ajL4RBQ" width="149" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="https://giphy.com/embed/bkNsvVGEC66ajL4RBQ" width="200" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
