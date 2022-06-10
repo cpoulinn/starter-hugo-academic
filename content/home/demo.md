@@ -28,5 +28,5 @@ design:
 specialized in bio-optical oceanography
 <br>
 <br>
-{{< cta cta_text="Contact :envelope:</i>" cta_link="/" cta_new_tab="false" >}}
-{{< icon name="envelope" pack="fas" >}}
+
+Contact [{{< icon name="envelope" pack="fas" >}}](/#contact)
