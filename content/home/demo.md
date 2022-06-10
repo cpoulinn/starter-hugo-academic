@@ -25,7 +25,9 @@ design:
       - 20px
       - "0"
 ---
-![](giphy-2-.gif)
+# **<br>**
+
+# **<br>**
 
 # **Scientific consulting**
 
