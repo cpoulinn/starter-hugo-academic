@@ -10,18 +10,18 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: true
+    text_color_light: false
     image: ""
     image_darken: 0
     color: "#ffffff"
   spacing:
     padding:
       - 20px
-      - "0"
+      - 20px
       - 20px
       - "0"
 cta:
