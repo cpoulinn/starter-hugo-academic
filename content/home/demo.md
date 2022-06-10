@@ -24,6 +24,11 @@ design:
       - "0"
       - 20px
       - "0"
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: download
 ---
 ## **<br>**
 
