@@ -15,7 +15,7 @@ design:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
     text_color_light: false
-    image: pexels-berend-de-kort-1452701-2.jpg
+    image: pexels-francesco-ungaro-10999877.jpg
     image_darken: 0
     color: "#ffffff"
   spacing:
