@@ -31,8 +31,4 @@ design:
 
 specialized in bio-optical oceanography
 
-![](giphy-22-.gif)
-
-
-
-[](https://giphy.com/stickers/text-iphone-3tLfKrc4pLWiTkAAph)[](https://giphy.com/stickers/comic-balloon-balo-SqfmqPPNtWFRFhn6my)
+<iframe src="https://giphy.com/embed/bkNsvVGEC66ajL4RBQ" width="149" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
