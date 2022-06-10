@@ -6,7 +6,7 @@ widget: hero
 widget_id: top
 headless: true
 weight: 15
-title: Photic Science
+title: ""
 subtitle: ""
 active: true
 design:
@@ -26,7 +26,7 @@ design:
 ---
 ## **<br>**
 
-## **<br>**
+![](g22534.png)
 
 ## **<br>**
 
