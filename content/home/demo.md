@@ -18,6 +18,7 @@ design:
     image: ""
     image_darken: 0
     color: "#ffffff"
+  align: right
   spacing:
     padding:
       - 20px
