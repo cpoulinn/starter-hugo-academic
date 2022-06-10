@@ -2,7 +2,7 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: Blank
+widget: blank
 widget_id: top
 headless: true
 weight: 15
