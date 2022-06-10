@@ -7,7 +7,7 @@ widget_id: top
 headless: true
 weight: 15
 title: Scientific consulting
-subtitle: specialized in bio-optical oceanography
+subtitle: ""
 active: true
 design:
   columns: "1"
@@ -25,7 +25,7 @@ design:
       - 20px
       - "0"
 ---
-
+specialized in bio-optical oceanography
 <br>
 <br>
 {{< cta cta_text="Contact class="fa-solid fa-envelope"</i>" cta_link="/" cta_new_tab="false" >}}
