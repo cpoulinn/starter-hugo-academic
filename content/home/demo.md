@@ -34,4 +34,5 @@ design:
 ## Scientific consulting, specialized in bio-optical oceanography 
 {style="color: blue"}
 
-{{< cta cta_text="Do something {{< icon name="terminal" pack="fas" >}} " cta_link="/" cta_new_tab="false" >}}
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+{{< icon name="terminal" pack="fas" >}}
