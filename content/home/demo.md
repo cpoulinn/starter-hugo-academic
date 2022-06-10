@@ -10,7 +10,7 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
