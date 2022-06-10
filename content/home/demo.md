@@ -27,8 +27,6 @@ design:
 ---
 # **<br>**
 
-# **<br>**
-
 # **Scientific consulting**
 
 specialized in bio-optical oceanography
