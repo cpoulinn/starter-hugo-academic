@@ -16,7 +16,7 @@ design:
     gradient_end: ForestGreen
     text_color_light: true
     image: p912015-2.jpg
-    image_darken: 0
+    image_darken: 0.6
   spacing:
     padding:
       - 20px
