@@ -25,6 +25,8 @@ design:
       - 20px
       - "0"
 ---
+<br>
+
 specialized in bio-optical oceanography
 <br>
 <br>
@@ -33,4 +35,4 @@ specialized in bio-optical oceanography
 
 <br>
 
-[{{< icon name="envelope" pack="fas" >}} Contact](/#contact)
+[{{< icon name="envelope" pack="fas" >}}](/#contact)
