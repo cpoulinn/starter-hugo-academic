@@ -29,20 +29,15 @@ design:
 
 # <br>
 
-# <br>
-
 # **Scientific consulting**
 
 specialized in bio-optical oceanography
-<br>
-<br>
 
-<br>
 
-<br>
+# <br>
 
-<br>
+# <br>
 
-<br>
+# <br>
 
 [{{< icon name="envelope" pack="fas" >}}](/#contact)
