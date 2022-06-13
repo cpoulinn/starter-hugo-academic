@@ -28,6 +28,17 @@ social:
 organizations:
   - name: The Oceanography Society
     url: https://tos.org/
+education:
+  courses:
+    - course: B. Sc. Ecology
+      institution: Université de Sherbrooke
+      year: 2007
+    - course: M. Env. Environmental Research
+      institution: Université de Sherbrooke
+      year: 2012
+    - course: Ph. D. Remote Sensing
+      institution: Université de Sherbrooke
+      year: 2018
 superuser: true
 ---
 Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
@@ -42,5 +53,6 @@ I can help you with:
 * Preparing scientific presentations
 * Preparing outreach material
 * Building websites
+* Translating from French to English
 
 Have an idea? [Let's discuss!](#contact)
