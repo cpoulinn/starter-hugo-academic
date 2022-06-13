@@ -33,11 +33,11 @@ feature:
     icon_pack: fas
     name: Scientific Writing
   - description:
-    icon: podium
+    icon: fa-solid fa-podium
     icon_pack: fas
     name: Science Communication
   - description:
-    icon: lightbulb-on
+    icon: fa-solid lightbulb-on
     icon_pack: fas
     name: Creative Thinking
   
