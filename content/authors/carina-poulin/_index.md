@@ -39,6 +39,8 @@ education:
       year: 2018
 superuser: true
 ---
+</br>
+
 Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. <span style="*color*:blue">I can assist with:</span>
 
 * Setting up or updating a laboratory :test_tube: 
