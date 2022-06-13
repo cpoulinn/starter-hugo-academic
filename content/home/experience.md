@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Associate
+  - title: Postdoctoral Research Associate - Bioluminescence response
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
     company_url: 'https://www.fau.edu/hboi/'
     company_logo: fau
@@ -30,14 +30,13 @@ experience:
     date_start: '2020-08-15'
     date_end: '2022-03-28'
     description: |2-
-        **Project:** Bioluminescence response (within a project funded by the Office of Naval Research)</br>
         **Responsibilities include:**
         * Studying response to stimuli and optical properties of bioluminescent plankton
         * Literature review, experimental research and data analysis
-        * Working within a muktidisciplinary team
+        * Working within a project funded by the Office of Naval research, within a multidisciplinary team
         * Mentoring a Master's Degree student
 
-  - title: Postdoctoral Research Associate
+  - title: Postdoctoral Research Associate - Bioluminescence response
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
     company_url: 'https://www.fau.edu/hboi/'
     company_logo: usm
@@ -45,11 +44,10 @@ experience:
     date_start: '2020-08-15'
     date_end: '2022-03-28'
     description: |2-
-        **Project:** Bioluminescence response (within a project funded by the Office of Naval Research)</br>
         **Responsibilities include:**
         * Studying response to stimuli and optical properties of bioluminescent plankton
         * Literature review, experimental research and data analysis
-        * Working within a muktidisciplinary team
+        * Working within a project funded by the Office of Naval research, within a multidisciplinary team
         * Mentoring a Master's Degree student
     
   - title: Professor of Semiconductor Physics
