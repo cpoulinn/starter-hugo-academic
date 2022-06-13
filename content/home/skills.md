@@ -33,7 +33,7 @@ feature:
     icon_pack: fas
     name: Scientific Writing
   - description:
-    icon: fa-solid fa-keynote
+    icon: fa-solid fa-chalkboard
     icon_pack: fas
     name: Science Communication
   - description:
