@@ -26,9 +26,9 @@ experience:
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
     company_url: 'https://www.fau.edu/hboi/'
     company_logo: fau
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Florida
+    date_start: '2021-08-15'
+    date_end: '2021-03-28'
     description: |2-
         Responsibilities include:
         
