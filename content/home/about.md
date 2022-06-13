@@ -3,7 +3,8 @@ widget: about
 widget_id: about
 headless: true
 weight: 20
-title: Do you need competent input for your research projects? I can help.
+title: "Need competent input for your research projects? "
 active: true
 author: carina-poulin
+subtitle: I can help.
 ---
