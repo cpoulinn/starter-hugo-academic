@@ -54,4 +54,4 @@ I can assist with:
 * Photography :camera_flash:
 * Translating from French to English :earth_americas: 
 
-Have an idea? Another problem that needs a creative solution? [Let's discuss!](#contact)
+Do you have a problem that needs a creative solution? [Let's discuss!](#contact)
