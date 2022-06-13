@@ -29,11 +29,11 @@ feature:
     icon_pack: fas
     name: Scientific writing
   - description:
-    icon: fa-solid fa-person-chalkboard
+    icon: chalkboard
     icon_pack: fas
     name: Science communication
   - description:
-    icon: chart-line
+    icon: lightbulb
     icon_pack: fas
     name: Creative thinking  
     
