@@ -43,15 +43,15 @@ Whether you need someone to teach your new trainee about phytoplankton culture w
 
 <br>
 
-I can help you with:
+I am a creative problem solver who can help with:
 
 * Setting up a new lab or updating an old one :test_tube: 
 * Student and postdoc training (lab work, communications, etc.) :scientist: 
 * Data analysis :computer: 
-* Preparing figures :chart_with_upwards_trend: 
+* Assembling figures :chart_with_upwards_trend: 
 * Writing scientific articles :memo: 
 * Preparing scientific presentations :placard: 
-* Preparing outreach material :seedling: 
+* Creating outreach material :seedling: 
 * Building websites :technologist: 
 * Photography :camera_flash:
 * Translating from French to English :earth_americas: 
