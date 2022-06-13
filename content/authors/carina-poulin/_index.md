@@ -41,9 +41,7 @@ superuser: true
 ---
 Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
 
-<br>
-
-I am a creative problem solver who can help with:
+I can help with:
 
 * Setting up a new lab or updating an old one :test_tube: 
 * Student and postdoc training (lab work, communications, etc.) :scientist: 
@@ -56,4 +54,4 @@ I am a creative problem solver who can help with:
 * Photography :camera_flash:
 * Translating from French to English :earth_americas: 
 
-Have an idea? [Let's discuss!](#contact)
+Have an idea? Another problem that would need a creative solution? [Let's discuss!](#contact)
