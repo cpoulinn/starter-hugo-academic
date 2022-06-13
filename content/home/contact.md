@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: Message Me
       link: 'https://www.linkedin.com/in/carina-poulin/'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+  #  - icon: video
+  #    icon_pack: fas
+  #    name: Zoom Me
+  #   link: 'https://zoom.com'
 
 design:
   columns: '2'
