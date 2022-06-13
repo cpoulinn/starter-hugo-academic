@@ -19,23 +19,28 @@ feature:
   - description:
     icon: fa-solid fa-flask
     icon_pack: fas
-    name: Phytoplankton culturing
+    name: Phytoplankton Culturing
+  - description:
+    icon: wand-magic-sparkles
+    icon_pack: fas
+    name: Ocean Optics
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Data analysis
+    name: Data Analysis
   - description:
     icon: fa-solid fa-paragraph
     icon_pack: fas
-    name: Scientific writing
+    name: Scientific Writing
   - description:
     icon: chalkboard
     icon_pack: fas
-    name: Science communication
+    name: Science Communication
   - description:
-    icon: lightbulb
+    icon: lightbulb-on
     icon_pack: fas
-    name: Creative thinking  
+    name: Creative Thinking
+  
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
