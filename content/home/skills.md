@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: Science Communication
   - description:
-    icon: alicorn
+    icon: fa-solid fa-alicorn
     icon_pack: fas
     name: Creative Thinking
   
