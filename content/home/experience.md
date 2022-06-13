@@ -30,8 +30,8 @@ experience:
     date_start: '2020-08-15'
     date_end: '2022-03-28'
     description: |2-
+        test
         Responsibilities include:
-        
         * Analysing
         * Modelling
         * Deploying
