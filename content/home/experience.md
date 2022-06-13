@@ -1,44 +1,35 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+headless: true  # This file represents a page section.
 
-# This file represents a page section.
-headless: true
+# ... Put Your Section Options Here (title etc.) ...
 
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
+# Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
+#   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: Postdoctoral fellow
-    company: Florida Atlantic University - Harbor Branch Oceanographic Institute
+  - title: 'CEO'
+    company: 'GenCoin'
     company_url: ''
-    company_logo: fau
-    location: Florida
-    date_start: '2020-08-15'
-    date_end: '2022-03-28'
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
     description: >-
-    #|2-
-    #    Project: Bioluminescence response (within a project funded by the Office of Naval Research)
-    #    Responsibilities include:
+        Responsibilities include:
         
-        * Studying stimuli response and optical properties of bioluminescent plankton
-        * Literature review, laboratory experiments and data analysis
-        * Working within a multidisciplinary team
-        * Mentoring a Master's student
-
-design:
-  columns: '2'
----
+        * Analysing
+        * Modelling
+        * Deploying
+                
+  - title: 'Professor'
+    company: 'University X'
+    company_url: ''
+    location: 'California'
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: 'Taught electronic engineering and researched semiconductor physics.'
