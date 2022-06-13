@@ -34,7 +34,7 @@ feature:
     name: Scientific Writing
   - description:
     icon: fas fa-person-chalkboard
-    icon_pack: far
+    icon_pack: fas
     name: Science Communication
   - description:
     icon: fas fa-sparkles
