@@ -27,9 +27,10 @@ experience:
     company_url: 'https://www.fau.edu/hboi/'
     company_logo: fau
     location: Florida
-    date_start: '2021-08-15'
-    date_end: '2021-03-28'
-    description: |2-
+    date_start: '2020-08-15'
+    date_end: '2022-03-28'
+    description: Project: Bioluminescence response (within a project funded by the Office of Naval Research)
+    |2-
         Responsibilities include:
         
         * Analysing
