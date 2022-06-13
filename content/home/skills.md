@@ -18,8 +18,8 @@ subtitle:
 feature:
   - description:
     icon: fa-solid fa-flask
-    icon_pack: fab
-    name: Phytoplankton culture lab
+    icon_pack: fas
+    name: Phytoplankton culturing
   - description: 
     icon: chart-line
     icon_pack: fas
