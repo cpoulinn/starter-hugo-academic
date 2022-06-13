@@ -30,7 +30,7 @@ experience:
     date_start: '2020-08-15'
     date_end: '2022-03-28'
     description: |2-
-        Project: Bioluminescence response (within a project funded by the Office of Naval Research)</br>
+        **Project:** Bioluminescence response (within a project funded by the Office of Naval Research)</br>
         **Responsibilities include:**
         * Studying response to stimuli and optical properties of bioluminescent plankton
         * Literature review, experimental research and data analysis
