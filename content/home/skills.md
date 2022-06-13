@@ -33,7 +33,7 @@ feature:
     icon_pack: fas
     name: Science communication
   - description:
-    icon: lightbulb-on
+    icon: chart-line
     icon_pack: fas
     name: Creative thinking  
     
