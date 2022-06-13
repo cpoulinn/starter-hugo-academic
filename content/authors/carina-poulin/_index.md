@@ -43,10 +43,9 @@ Whether you need someone to teach your new trainee about phytoplankton culture w
 
 I can assist with:
 
-* Setting up a new lab or updating an old one :test_tube: 
-* Student and postdoc training (lab work, communications, etc.) :scientist: 
+* Setting up or updating a laboratory :test_tube: 
+* Student and postdoc training :scientist: 
 * Data analysis :bar_chart:
-* Assembling figures :chart_with_upwards_trend: 
 * Writing scientific articles :computer: 
 * Preparing scientific presentations :placard: 
 * Creating outreach material :seedling: 
