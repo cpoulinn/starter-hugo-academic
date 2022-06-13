@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description:
-    icon: fa-solid fa-flask
+    icon:<i class="fa-solid fa-flask"></i>
     icon_pack: fas
     name: Phytoplankton culturing
   - description: 
@@ -29,9 +29,10 @@ feature:
     icon_pack: fas
     name: Scientific writing
   - description:
-    icon: fa-solid fa-paragraph
+    icon: <i class="fa-solid fa-person-chalkboard"></i>
     icon_pack: fas
-    name: Scientific writing
+    name: Science communication
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
