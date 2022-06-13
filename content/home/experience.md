@@ -33,7 +33,7 @@ experience:
         **Responsibilities include:**
         * Studying response to stimuli and optical properties of bioluminescent plankton
         * Literature review, experimental research and data analysis
-        * Working within a project funded by the Office of Naval research, within a multidisciplinary team
+        * Working within a project funded by the Office of Naval research, with a multidisciplinary team
         * Mentoring a Master's Degree student
 
   - title: Postdoctoral Research Associate - Bioluminescence response
