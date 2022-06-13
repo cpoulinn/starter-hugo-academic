@@ -34,11 +34,11 @@ feature:
     name: Scientific Writing
   - description:
     icon: person-chalkboard
-    icon_pack: fas
+    icon_pack: fab
     name: Science Communication
   - description:
     icon: lightbulb-on
-    icon_pack: far
+    icon_pack: fab
     name: Creative Thinking
   
     
