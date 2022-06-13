@@ -1,5 +1,5 @@
 ---
-title: Carina Poulin
+title: Carina Poulin, Ph. D.
 role: Bio-optical oceanographer
 avatar_filename: avatar.png
 interests:
@@ -25,4 +25,4 @@ social:
     link: https://scholar.google.ca/citations?user=8iZDE8MAAAAJ&hl=en
 superuser: true
 ---
-lorem ipsum
+Whether you need someone to train your new postdoc or students for phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography.
