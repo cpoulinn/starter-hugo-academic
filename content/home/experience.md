@@ -31,8 +31,6 @@ experience:
     date_end: '2022-03-28'
     description: >-
     Taught electronic engineering and researched semiconductor physics.
-    Test:
-      * test
 
   - title: Professor of Semiconductor Physics
     company: University X
