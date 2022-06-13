@@ -36,6 +36,21 @@ experience:
         * Literature review, experimental research and data analysis
         * Working within a muktidisciplinary team
         * Mentoring a Master's Degree student
+ 
+ - title: Postdoctoral Research Associate
+    company: Florida Atlantic University - Harbor Branch Oceanographic Institute
+    company_url: 'https://www.fau.edu/hboi/'
+    company_logo: usm
+    location: Florida
+    date_start: '2020-08-15'
+    date_end: '2022-03-28'
+    description: |2-
+        **Project:** Bioluminescence response (within a project funded by the Office of Naval Research)</br>
+        **Responsibilities include:**
+        * Studying response to stimuli and optical properties of bioluminescent plankton
+        * Literature review, experimental research and data analysis
+        * Working within a muktidisciplinary team
+        * Mentoring a Master's Degree student
 
   - title: Professor of Semiconductor Physics
     company: University X
