@@ -45,24 +45,15 @@ Whether you need someone to teach your new trainee about phytoplankton culture w
 
 I can help you with:
 
-:test_tube: Setting up a new lab or updating an old one
-
-:microbe: :scientist: Student and postdoc training (lab work, communications, etc.)
-
-:computer: Data analysis
-
-:chart_with_upwards_trend: Preparing figures
-
-:memo: Writing scientific articles
-
-:placard: Preparing scientific presentations
-
-:seedling: Preparing outreach material
-
-:technologist: Building websites
-
-camera_flash: Photography
-
-:earth_americas: Translating from French to English
+* Setting up a new lab or updating an old one :test_tube: 
+* Student and postdoc training (lab work, communications, etc.) :scientist: 
+* Data analysis :computer: 
+* Preparing figures :chart_with_upwards_trend: 
+* Writing scientific articles :memo: 
+* Preparing scientific presentations :placard: 
+* Preparing outreach material :seedling: 
+* Building websites :technologist: 
+* Photography :camera_flash:
+* Translating from French to English :earth_americas: 
 
 Have an idea? [Let's discuss!](#contact)
