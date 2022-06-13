@@ -33,7 +33,7 @@ feature:
     icon_pack: fas
     name: Scientific Writing
   - description:
-    icon: chalkboard
+    icon: person-chalkboard
     icon_pack: fas
     name: Science Communication
   - description:
