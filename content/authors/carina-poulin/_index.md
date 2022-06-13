@@ -35,7 +35,7 @@ Whether you need someone to teach your new trainee about phytoplankton culture w
 I can help you with:
 
 * Setting up a new lab or updating an old one
-* Student and postdoc training (for lab work, communications, etc.)
+* Student and postdoc training (lab work, communications, etc.)
 * Data analysis
 * Preparing figures
 * Writing scientific articles
