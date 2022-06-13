@@ -29,9 +29,10 @@ experience:
     location: Florida
     date_start: '2020-08'
     date_end: '2022-04'
-    description: |2-
-        Project: Bioluminescence response (within a project funded by the Office of Naval Research)
-        Responsibilities include:
+    description: 
+    #|2-
+    #    Project: Bioluminescence response (within a project funded by the Office of Naval Research)
+    #    Responsibilities include:
         
         * Studying stimuli response and optical properties of bioluminescent plankton
         * Literature review, laboratory experiments and data analysis
@@ -46,8 +47,8 @@ experience:
     date_start: '2019-04'
     date_end: '2020-04'
     description: 
-        Project: Understanding the natural variability of angular scattering by oceanic particles
-        Responsibilities include:
+    #    Project: Understanding the natural variability of angular scattering by oceanic particles
+     #   Responsibilities include:
         
         * Establishing and maintaining a new ocean optics laboratory
         * Creating a method for a new instrument in the field (3D cell explorer)
