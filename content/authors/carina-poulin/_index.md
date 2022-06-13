@@ -25,9 +25,7 @@ social:
     icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=8iZDE8MAAAAJ&hl=en
-organizations:
-  - name: The Oceanography Society
-    url: https://tos.org/
+organizations: []
 education:
   courses:
     - course: B. Sc. Ecology
