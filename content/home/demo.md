@@ -6,8 +6,8 @@ widget: blank
 widget_id: top
 headless: true
 weight: 15
-title: ""
-subtitle: ""
+title: Scientific consulting
+subtitle: specialized
 active: true
 design:
   columns: "1"
