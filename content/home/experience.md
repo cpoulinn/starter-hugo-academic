@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral fellow
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
-    company_url: 'https://www.fau.edu/hboi/'
+    company_url: ''
     company_logo: fau
     location: Florida
-    date_start: '2020-08'
-    date_end: '2022-04'
+    date_start: '2020-08-15'
+    date_end: '2022-03-28'
     description: 
     #|2-
     #    Project: Bioluminescence response (within a project funded by the Office of Naval Research)
@@ -41,11 +41,11 @@ experience:
 
   - title: Postdoctoral research associate/Lab manager
     company: University of Southern Mississippi - Stennis Space Center
-    company_url: 'https://www.usm.edu/ocean-science-engineering/about-location.php'
+    company_url: ''
     company_logo: usm
     location: Mississippi
-    date_start: '2019-04'
-    date_end: '2020-04'
+    date_start: '2019-04-23'
+    date_end: '2020-04-22'
     description: 
     #    Project: Understanding the natural variability of angular scattering by oceanic particles
      #   Responsibilities include:
