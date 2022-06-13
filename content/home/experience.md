@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Research Associate
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
-    company_url: ''
+    company_url: 'https://www.fau.edu/hboi/'
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
