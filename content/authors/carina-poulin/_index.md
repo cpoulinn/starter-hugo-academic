@@ -43,4 +43,4 @@ I can help you with:
 * Preparing outreach material
 * Building websites
 
-Have an idea? [Let's discuss!](#/contact)
+Have an idea? [Let's discuss!](#contact)
