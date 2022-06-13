@@ -43,9 +43,11 @@ superuser: true
 ---
 Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
 
+<br>
+
 I can help you with:
 
-* Setting up a new lab or updating an old one
+* Setting up a new lab or updating an old one :lab_coat:
 * Student and postdoc training (lab work, communications, etc.)
 * Data analysis
 * Preparing figures
