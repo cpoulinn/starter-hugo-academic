@@ -30,6 +30,12 @@ experience:
     date_start: '2020-08-15'
     date_end: '2022-03-28'
     description: test
+    |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
