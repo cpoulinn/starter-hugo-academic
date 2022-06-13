@@ -6,7 +6,7 @@ widget_id: about
 headless: true
 weight: 20
 title: Need professional input for your research projects? <br><br><font
-  color=#00CED1>I can help</font>
+  color=#378f8a>I can help</font>
 subtitle: ""
 ---
 I can help..
