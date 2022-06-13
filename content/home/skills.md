@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Data Analysis
   - description:
-    icon: fa-solid fa-paragraph
+    icon: square-pen
     icon_pack: fas
     name: Scientific Writing
   - description:
