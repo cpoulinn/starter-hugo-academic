@@ -29,7 +29,7 @@ experience:
     location: Florida
     date_start: '2020-08-15'
     date_end: '2022-03-28'
-    description: 
+    description: >-
     #|2-
     #    Project: Bioluminescence response (within a project funded by the Office of Naval Research)
     #    Responsibilities include:
