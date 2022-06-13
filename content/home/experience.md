@@ -29,12 +29,7 @@ experience:
     location: Florida
     date_start: '2020-08-15'
     date_end: '2022-03-28'
-    description: Project:|2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Professor of Semiconductor Physics
     company: University X
