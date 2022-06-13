@@ -7,10 +7,10 @@ widget_id: top
 headless: true
 weight: 15
 title: Scientific consulting
-subtitle: specialized
+subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
