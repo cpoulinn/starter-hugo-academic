@@ -39,22 +39,6 @@ experience:
         * Working within a multidisciplinary team
         * Mentoring a Master's student
 
-  - title: Postdoctoral research associate/Lab manager
-    company: University of Southern Mississippi - Stennis Space Center
-    company_url: ''
-    company_logo: usm
-    location: Mississippi
-    date_start: '2019-04-23'
-    date_end: '2020-04-22'
-    description: 
-    #    Project: Understanding the natural variability of angular scattering by oceanic particles
-     #   Responsibilities include:
-        
-        * Establishing and maintaining a new ocean optics laboratory
-        * Creating a method for a new instrument in the field (3D cell explorer)
-        * Devising experiments
-        * Analysing field data
-        * Supervising a lab technician
 design:
   columns: '2'
 ---
