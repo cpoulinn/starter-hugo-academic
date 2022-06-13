@@ -29,7 +29,9 @@ experience:
     location: Florida
     date_start: '2020-08-15'
     date_end: '2022-03-28'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: >-Taught electronic engineering and researched semiconductor physics.
+      Responsibilities inclue:
+      * test
 
   - title: Professor of Semiconductor Physics
     company: University X
