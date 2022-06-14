@@ -23,6 +23,6 @@ design:
   view: citation
   columns: "2"
   background:
-    image: ""
+    image: pexels-edward-jenner-4252519-copy.jpeg
     text_color_light: false
 ---
