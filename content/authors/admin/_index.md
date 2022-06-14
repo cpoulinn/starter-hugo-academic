@@ -1,77 +1,59 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Carina Poulin, Ph. D.
+role: Bio-optical oceanographer
+avatar_filename: avatar.png
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
+  - Phytoplankton
+  - Cultures
+  - Oceanography
+  - Biology
+  - Optics
+  - Communication
+social:
+  - display:
+      header: false
+    link: /#contact
+    icon_pack: fas
+    icon: envelope
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/carina-poulin/
+    icon_pack: fab
+    icon: linkedin
+  - display:
+      header: false
+    icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.ca/citations?user=8iZDE8MAAAAJ&hl=en
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: B. Sc. Ecology
+      institution: Université de Sherbrooke
+      year: 2007
+    - course: M. Env. Environmental Research
+      institution: Université de Sherbrooke
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+    - course: Ph. D. Remote Sensing
+      institution: Université de Sherbrooke
+      year: 2018
+superuser: true
 ---
+</br>
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<font color=#20B2AA>I can assist with:</font>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+* Setting up a laboratory :test_tube: 
+* Student and postdoc training :scientist: 
+* Data analysis :bar_chart:
+* Writing articles :computer: 
+* Preparing presentations :placard: 
+* Creating outreach material :seedling: 
+* Project management :calendar:
+* Building websites :technologist: 
+* Photography :camera_flash:
+* Translating from French to English :earth_americas: 
+
+<font color=#20B2AA>Do you have a problem that needs a creative solution? [Let's discuss!](#contact) </font>
