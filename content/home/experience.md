@@ -93,5 +93,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: pexels-edward-jenner-42525252.jpg
+    image: pexels-edward-jenner-42525253.jpg
 ---
