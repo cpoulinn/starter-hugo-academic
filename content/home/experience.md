@@ -58,7 +58,7 @@ experience:
     date_start: '2013-09-01'
     date_end: '2018-07-31'
     description: |2-
-        Responsibilities include:
+        **Responsibilities include:**
         * Designing and conducting laboratory experiments
         * Working in a multidisciplinary team
         * Using the results of the experiments in optical models
