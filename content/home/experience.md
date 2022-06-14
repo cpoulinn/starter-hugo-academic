@@ -59,7 +59,11 @@ experience:
     date_end: '2018-07-31'
     description: |2-
         **Responsibilities include:**
-        *
+        * Designing and conducting laboratory experiments
+        * Working in a multidisciplinary team
+        * Using the results of the experiments in optical models
+        * Supervising interns, training students and new lab employees
+        
 design:
   columns: '2'
 ---
