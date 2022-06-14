@@ -20,7 +20,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=8iZDE8MAAAAJ&hl=en
 organizations: []
-education: []
+education: ''
   courses: []
 superuser: true
 ---
