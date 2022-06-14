@@ -41,8 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-2-711&id=380636
-
+#   url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
