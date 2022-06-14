@@ -14,8 +14,8 @@ author_notes:
   - ''
   - ''
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2018-01-01T00:00:00Z'
+doi: '10.1364/OE.26.000711'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
