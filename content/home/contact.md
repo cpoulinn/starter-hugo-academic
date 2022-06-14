@@ -30,6 +30,6 @@ content:
 design:
   columns: "2"
   background:
-    image: pexels-zaksheuskaya-1568607.jpeg
+    image: pexels-edward-jenner-4252519.jpeg
     text_color_light: false
 ---
