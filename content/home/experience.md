@@ -83,8 +83,8 @@ experience:
     company_url: 'https://apps.apple.com/us/app/seven-wonders-ar/id1435277304'
     company_logo: tpp
     location: Quebec
-    date_start: '2008-01-01'
-    date_end: '2009-03-31'
+    date_start: '2015-01-01'
+    date_end: '2019-03-31'
     description: |2-
         One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 </br>
         Winner of multiple business pitching competitions</br>
