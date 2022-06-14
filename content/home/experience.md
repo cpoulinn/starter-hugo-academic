@@ -93,6 +93,6 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: pexels-edward-jenner-42525253.jpg
+    image: pexels-edward-jenner-42525252.jpg
     text_color_light: false
 ---
