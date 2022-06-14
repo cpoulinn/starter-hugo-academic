@@ -49,6 +49,20 @@ experience:
         * Creating a method for a new instrument in the field (3D Cell Explorer)
         * Devising experiments, analyzing data, preparing equipment for North-Atlantic cruise (part of NASA EXPORTS)
         * Supervising a laboratory technician
+
+ - title: Research Professionnal - Communications
+    company: Université de Sherbrooke
+    company_url: 'https://www.usherbrooke.ca/'
+    company_logo: usherb
+    location: Quebec
+    date_start: '2019-01-01'
+    date_end: '2019-05-01'
+    description: |2-
+        **Responsibilities include:**
+        * Helping researchers on their funding proposals
+        * Devising a plan to improve social cohesion of the group
+        * Rebuilding website
+        * Organizing invited conferences
     
   - title: Ph. D. - Remote sensing </br> Diel variations of the optical properties of phytoplankton
     company: Université de Sherbrooke
@@ -63,6 +77,18 @@ experience:
         * Working in a multidisciplinary team
         * Using the results of the experiments in optical models
         * Supervising interns, training students and new lab employees
+        
+  - title: M. Env. - Research </br> The impact of light pollution on the ecophysiology of cyanobacteria
+    company: Université de Sherbrooke
+    company_url: 'https://www.usherbrooke.ca/'
+    company_logo: usherb
+    location: Quebec
+    date_start: '2009-04-01'
+    date_end: '2012-12-31'
+    description: |2-
+        **Responsibilities include:**
+        * Designing and conducting laboratory experiments
+        * Developing an automated culture chamber with a multidisciplinary team
         
 design:
   columns: '2'
