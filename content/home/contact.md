@@ -25,11 +25,11 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: carina.poulin@gmail.com
-  phone: 228 383-1468
+  email: photic.science@gmail.com
+  phone: 
   address:
     street: 
-    city: Fort Pierce
+    city: 
     region: FL
     postcode: 
     country: United States
