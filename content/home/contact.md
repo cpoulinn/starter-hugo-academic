@@ -30,6 +30,6 @@ content:
 design:
   columns: "2"
   background:
-    image: ""
+    image: rect354.jpg
     text_color_light: false
 ---
