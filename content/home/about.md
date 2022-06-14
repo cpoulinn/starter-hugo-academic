@@ -1,7 +1,7 @@
 ---
 widget: about
 active: true
-author: carina-poulin
+author: admin
 widget_id: about
 headless: true
 weight: 20
