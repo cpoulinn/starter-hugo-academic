@@ -30,5 +30,6 @@ content:
 design:
   columns: "2"
   background:
-    image: ""
+    image: pexels-oliver-sjöström-10745052.jpg
+    text_color_light: true
 ---
