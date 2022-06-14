@@ -91,5 +91,5 @@ weight: 40
 title: Experience and Education
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
