@@ -41,7 +41,9 @@ superuser: true
 ---
 </br>
 
-Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. <font color=#20B2AA>I can assist with:</font>
+Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
+
+<font color=#20B2AA>I can assist with:</font>
 
 * Setting up a laboratory :test_tube: 
 * Student and postdoc training :scientist: 
