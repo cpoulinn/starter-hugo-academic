@@ -30,6 +30,6 @@ content:
 design:
   columns: "2"
   background:
-    image: pexels-oliver-sjöström-10745052.jpg
+    image: pexels-beckett-5022325.jpeg
     text_color_light: true
 ---
