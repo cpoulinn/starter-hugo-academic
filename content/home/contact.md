@@ -1,57 +1,34 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
+widget_id: contact
 headless: true
-
-# Order that this section appears on the page.
 weight: 130
-
 title: Contact
-subtitle:
-
+subtitle: null
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-
-  # Contact details (edit or remove options as required)
   email: photic.science@gmail.com
   phone: (321) 345-3858
   address:
-    street: 
-    city: 
+    street: null
+    city: null
     region: Based in Florida, USA
-    postcode: 
+    postcode: null
     country: United States
     country_code: US
-  #coordinates:
-    #latitude: '37.4275'
-    #longitude: '-122.1697'
-  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  #office_hours:
-   # - 'Monday 10:00 to 13:00'
-   # - 'Wednesday 09:00 to 10:00'
-  #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin
       icon_pack: fab
       name: Message Me
-      link: 'https://www.linkedin.com/in/carina-poulin/'
-  #  - icon: video
-  #    icon_pack: fas
-  #    name: Zoom Me
-  #   link: 'https://zoom.com'
-
+      link: https://www.linkedin.com/in/carina-poulin/
 design:
-  columns: '2'
+  columns: "2"
+  background:
+    image: p912015-2.jpg
 ---
