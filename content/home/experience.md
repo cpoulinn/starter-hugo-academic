@@ -38,7 +38,7 @@ experience:
 
   - title: Postdoctoral Research Associate - Bioluminescence response
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
-    company_url: 'https://www.fau.edu/hboi/'
+    company_url: 'https://www.usm.edu/ocean-science-engineering/about-location.php'
     company_logo: usm
     location: Mississippi
     date_start: '2020-08-15'
