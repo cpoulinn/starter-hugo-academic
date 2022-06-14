@@ -30,6 +30,6 @@ content:
 design:
   columns: "2"
   background:
-    image: pexels-edward-jenner-4252519-copy.jpeg
+    image: ""
     text_color_light: false
 ---
