@@ -7,11 +7,12 @@ title: 'Diurnal variations of the optical properties of phytoplankton in a labor
 authors:
   - admin
   - David Antoine
+  - Yannick Huot
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
