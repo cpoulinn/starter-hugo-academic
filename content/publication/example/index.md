@@ -5,7 +5,7 @@ title: 'Diurnal variations of the optical properties of phytoplankton in a labor
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Carina Poulin
   - David Antoine
   - Yannick Huot
 
@@ -33,7 +33,7 @@ publication_short: In *OE*
 abstract: Diurnal variations of phytoplankton size distributions, chlorophyll, carbon and nitrogen content, in vivo fluorescence and associated optical absorption and scattering properties were observed in the laboratory to help understand in situ and spatial observations. We grew triplicate semi-continuous cultures of T. pseudonana, D. tertiolecta, P. tricornutum and E. huxleyi under a sinusoidal light regime. We observed diurnal variations in the particulate absorption (ap), scattering (bp), attenuation (cp), and backscattering coefficients (bbp), which correlate with carbon and Chl concentrations. Relative variations from sunrise of bbp are slightly lower than those of cp, suggesting that bbp diurnal increases observed in nature are partly caused by phytoplankton. Non-concurrent changes of carbon and Chl-specific backscattering and scattering coefficients and optical cross-sections however indicates that using backscattering to infer scattering or biomass must be done with care.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: iurnal variations of phytoplankton size distributions, chlorophyll, carbon and nitrogen content, in vivo fluorescence and associated optical absorption...
 
 tags: []
 
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -66,23 +66,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the _Slides_ button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
