@@ -23,6 +23,6 @@ design:
   view: citation
   columns: "2"
   background:
-    image: p912015-2.jpg
+    image: ""
     text_color_light: true
 ---
