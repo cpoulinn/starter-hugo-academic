@@ -77,6 +77,18 @@ experience:
         * Working in a multidisciplinary team
         * Using the results of the experiments in optical models
         * Supervising interns, training students and new lab employees
+  
+  - title: CEO - Co-Founder
+    company: Time Passport Inc.
+    company_url: 'https://apps.apple.com/us/app/seven-wonders-ar/id1435277304'
+    company_logo: usherb
+    location: Quebec
+    date_start: '2008-01-01'
+    date_end: '2009-03-31'
+    description: |2-
+        **Responsibilities include:**
+        * Designing and conducting laboratory experiments
+        * Developing an automated culture chamber with a multidisciplinary team
         
   - title: M. Env. - Research </br> The impact of light pollution on the ecophysiology of cyanobacteria
     company: Université de Sherbrooke
@@ -87,8 +99,12 @@ experience:
     date_end: '2012-12-31'
     description: |2-
         **Responsibilities include:**
-        * Designing and conducting laboratory experiments
-        * Developing an automated culture chamber with a multidisciplinary team
+        * Managing a multidisciplinary team of 5 to 6 people
+        * Producing of a demo application (Seven Wonders AR) 
+        * Partnering with Ancient History Encyclopedia for historical content
+        * Producting of a functional prototype of a geolocated augmented reality
+        * One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 
+        * Winner of multiple business pitching competitions
         
 design:
   columns: '2'
