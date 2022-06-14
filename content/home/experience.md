@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Fellow - Bioluminescence response
+  - title: Postdoctoral Fellow </br> Bioluminescence response
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
     company_url: 'https://www.fau.edu/hboi/'
     company_logo: fau
