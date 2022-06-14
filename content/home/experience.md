@@ -86,7 +86,7 @@ experience:
     date_start: '2008-01-01'
     date_end: '2009-03-31'
     description: |2-
-    Test
+        Test
         **Responsibilities include:**
         * Managing a multidisciplinary team of 5 to 6 people
         * Producing of a demo application (Seven Wonders AR) 
