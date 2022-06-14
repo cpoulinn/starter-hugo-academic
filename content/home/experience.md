@@ -50,13 +50,13 @@ experience:
         * Working within a project funded by the Office of Naval research, within a multidisciplinary team
         * Mentoring a Master's Degree student
     
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Ph. D. Remote sensing </br> Diel variations of optical properties of phytoplankton
+    company: Université de Sherbrooke
+    company_url: 'https://www.usherbrooke.ca/'
     company_logo: usherb
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Quebec
+    date_start: '2013-09-01'
+    date_end: '2018-07-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
