@@ -41,5 +41,5 @@ image:
   filename: pexels-cottonbro-9667551.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-06-14T19:55:11.337Z
+date: 2022-06-14T19:55:00.000Z
 ---
