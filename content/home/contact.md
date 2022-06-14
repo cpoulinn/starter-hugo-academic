@@ -30,6 +30,6 @@ content:
 design:
   columns: "2"
   background:
-    image: pexels-beckett-5022325.jpeg
-    text_color_light: true
+    image: pexels-zaksheuskaya-1568607.jpeg
+    text_color_light: false
 ---
