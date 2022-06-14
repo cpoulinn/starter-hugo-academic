@@ -24,5 +24,5 @@ design:
   columns: "2"
   background:
     image: ""
-    text_color_light: true
+    text_color_light: false
 ---
