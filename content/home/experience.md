@@ -92,4 +92,6 @@ title: Experience and Education
 subtitle: null
 design:
   columns: "2"
+  background:
+    image: pexels-edward-jenner-4252525.jpeg
 ---
