@@ -26,11 +26,11 @@ content:
 
   # Contact details (edit or remove options as required)
   email: photic.science@gmail.com
-  phone: 
+  phone: (321) 345-3858
   address:
     street: 
     city: 
-    region: FL
+    region: Based in Florida, USA
     postcode: 
     country: United States
     country_code: US
