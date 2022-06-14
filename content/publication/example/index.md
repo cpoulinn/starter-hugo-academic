@@ -6,7 +6,7 @@ title: 'Diurnal variations of the optical properties of phytoplankton in a labor
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - David Antoine
 
 # Author notes (optional)
 author_notes:
