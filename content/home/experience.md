@@ -36,7 +36,7 @@ experience:
         * Literature review, experimental research and data analysis
         * Mentoring a Master's Degree student
 
-  - title: Postdoctoral Research Associate / Lab manager - Ocean particle scattering
+  - title: Postdoctoral Research Associate / Lab manager </br> Ocean particle scattering
     company: University of Southern Mississippi - Stennis Space Center
     company_url: 'https://www.usm.edu/ocean-science-engineering/about-location.php'
     company_logo: usm
