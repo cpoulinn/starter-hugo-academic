@@ -18,19 +18,19 @@ date: '2018-01-01T00:00:00Z'
 doi: '10.1364/OE.26.000711'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Optics Express*
+publication_short: In *OE*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Diurnal variations of phytoplankton size distributions, chlorophyll, carbon and nitrogen content, in vivo fluorescence and associated optical absorption and scattering properties were observed in the laboratory to help understand in situ and spatial observations. We grew triplicate semi-continuous cultures of T. pseudonana, D. tertiolecta, P. tricornutum and E. huxleyi under a sinusoidal light regime. We observed diurnal variations in the particulate absorption (ap), scattering (bp), attenuation (cp), and backscattering coefficients (bbp), which correlate with carbon and Chl concentrations. Relative variations from sunrise of bbp are slightly lower than those of cp, suggesting that bbp diurnal increases observed in nature are partly caused by phytoplankton. Non-concurrent changes of carbon and Chl-specific backscattering and scattering coefficients and optical cross-sections however indicates that using backscattering to infer scattering or biomass must be done with care.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
