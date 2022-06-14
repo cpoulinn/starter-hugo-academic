@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Carina Poulin. {license}'
+    notice: '© {year} Carina Poulin.'
     license:
       enable: false
       allow_derivatives: false
