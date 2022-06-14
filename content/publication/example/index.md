@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Diurnal variations of the optical properties of phytoplankton in a laboratory experiment and their implication for using inherent optical properties to measure biomass'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
