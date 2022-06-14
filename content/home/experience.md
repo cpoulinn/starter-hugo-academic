@@ -87,8 +87,13 @@ experience:
     date_end: '2009-03-31'
     description: |2-
         **Responsibilities include:**
-        * Designing and conducting laboratory experiments
-        * Developing an automated culture chamber with a multidisciplinary team
+        * Managing a multidisciplinary team of 5 to 6 people
+        * Producing of a demo application (Seven Wonders AR) 
+        * Partnering with Ancient History Encyclopedia for historical content
+        * Producting of a functional prototype of a geolocated augmented reality
+        * Participating in business incubator programs
+        * One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 
+        * Winner of multiple business pitching competitions
         
   - title: M. Env. - Research </br> The impact of light pollution on the ecophysiology of cyanobacteria
     company: Université de Sherbrooke
@@ -99,12 +104,8 @@ experience:
     date_end: '2012-12-31'
     description: |2-
         **Responsibilities include:**
-        * Managing a multidisciplinary team of 5 to 6 people
-        * Producing of a demo application (Seven Wonders AR) 
-        * Partnering with Ancient History Encyclopedia for historical content
-        * Producting of a functional prototype of a geolocated augmented reality
-        * One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 
-        * Winner of multiple business pitching competitions
+        * Designing and conducting laboratory experiments
+        * Developing an automated culture chamber with a multidisciplinary team
         
 design:
   columns: '2'
