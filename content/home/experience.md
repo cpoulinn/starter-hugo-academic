@@ -94,5 +94,5 @@ design:
   columns: "2"
   background:
     image: pexels-edward-jenner-42525253.jpg
-    text_color_light: true
+    text_color_light: false
 ---
