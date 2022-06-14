@@ -2,13 +2,7 @@
 title: Carina Poulin, Ph. D.
 role: Bio-optical oceanographer
 avatar_filename: avatar.png
-interests:
-  - Phytoplankton
-  - Cultures
-  - Oceanography
-  - Biology
-  - Optics
-  - Communication
+interests: []
 social:
   - display:
       header: false
