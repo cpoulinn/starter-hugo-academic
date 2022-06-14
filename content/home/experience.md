@@ -92,8 +92,8 @@ experience:
         * Partnering with Ancient History Encyclopedia for historical content
         * Producting of a functional prototype of a geolocated augmented reality
         * Participating in business incubator programs </br>
-    *One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 </br>
-    *Winner of multiple business pitching competitions
+        *One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 </br>
+        *Winner of multiple business pitching competitions
         
   - title: M. Env. - Research </br> The impact of light pollution on the ecophysiology of cyanobacteria
     company: Université de Sherbrooke
