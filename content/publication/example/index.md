@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://opg.optica.org/DirectPDFAccess/E72C8F4D-3EDA-4183-8531FC1D565446A4_380636/oe-26-2-711.pdf?da=1&id=380636&seq=0&mobile=no'
+url_pdf: 'content/publication/example/oe-26-2-711.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
