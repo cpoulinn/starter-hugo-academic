@@ -86,15 +86,15 @@ experience:
     date_start: '2008-01-01'
     date_end: '2009-03-31'
     description: |2-
-        Test
+        *One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 </br>
+        *Winner of multiple business pitching competitions*</br>
         **Responsibilities include:**
         * Managing a multidisciplinary team of 5 to 6 people
         * Producing of a demo application (Seven Wonders AR) 
         * Partnering with Ancient History Encyclopedia for historical content
         * Producting of a functional prototype of a geolocated augmented reality
-        * Participating in business incubator programs </br>
-        *One of 20 startups in the world selected for UNESCO’s Heritage Lab 2018 </br>
-        *Winner of multiple business pitching competitions
+        * Participating in business incubator programs 
+        
         
   - title: M. Env. - Research </br> The impact of light pollution on the ecophysiology of cyanobacteria
     company: Université de Sherbrooke
