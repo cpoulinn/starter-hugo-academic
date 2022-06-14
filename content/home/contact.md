@@ -30,5 +30,5 @@ content:
 design:
   columns: "2"
   background:
-    image: p912015-2.jpg
+    image: ""
 ---
