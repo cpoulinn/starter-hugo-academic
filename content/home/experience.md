@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Associate - Bioluminescence response
+  - title: Postdoctoral Fellow - Bioluminescence response
     company: Florida Atlantic University - Harbor Branch Oceanographic Institute
     company_url: 'https://www.fau.edu/hboi/'
     company_logo: fau
@@ -36,13 +36,13 @@ experience:
         * Literature review, experimental research and data analysis
         * Mentoring a Master's Degree student
 
-  - title: Postdoctoral Research Associate - Bioluminescence response
-    company: Florida Atlantic University - Harbor Branch Oceanographic Institute
+  - title: Postdoctoral Research Associate / Lab manager - Ocean particle scattering
+    company: University of Southern Mississippi - Stennis Space Center
     company_url: 'https://www.usm.edu/ocean-science-engineering/about-location.php'
     company_logo: usm
     location: Mississippi
-    date_start: '2020-08-15'
-    date_end: '2022-03-28'
+    date_start: '2019-04-23'
+    date_end: '2020-04-22'
     description: |2-
         **Responsibilities include:**
         * Studying response to stimuli and optical properties of bioluminescent plankton
