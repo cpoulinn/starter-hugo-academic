@@ -81,7 +81,7 @@ experience:
   - title: CEO - Co-Founder
     company: Time Passport Inc.
     company_url: 'https://apps.apple.com/us/app/seven-wonders-ar/id1435277304'
-    company_logo: usherb
+    company_logo: tpp
     location: Quebec
     date_start: '2008-01-01'
     date_end: '2009-03-31'
