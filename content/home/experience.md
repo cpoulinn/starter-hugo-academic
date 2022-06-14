@@ -50,7 +50,7 @@ experience:
         * Working within a project funded by the Office of Naval research, within a multidisciplinary team
         * Mentoring a Master's Degree student
     
-  - title: Ph. D. Remote sensing </br> Diel variations of optical properties of phytoplankton
+  - title: Ph. D. - Remote sensing </br> Diel variations of the optical properties of phytoplankton
     company: Université de Sherbrooke
     company_url: 'https://www.usherbrooke.ca/'
     company_logo: usherb
