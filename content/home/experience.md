@@ -45,10 +45,10 @@ experience:
     date_end: '2020-04-22'
     description: |2-
         **Responsibilities include:**
-        * Studying response to stimuli and optical properties of bioluminescent plankton
-        * Literature review, experimental research and data analysis
-        * Working within a project funded by the Office of Naval research, within a multidisciplinary team
-        * Mentoring a Master's Degree student
+        * Establishing and maintaining a new ocean optics laboratory
+        * Creating a method for a new instrument in the field (3D Cell Explorer)
+        * Devising experiments, analyzing data, preparing equipment for North-Atlantic cruise (part of NASA EXPORTS)
+        * Supervising a laboratory technician
     
   - title: Ph. D. - Remote sensing </br> Diel variations of the optical properties of phytoplankton
     company: Université de Sherbrooke
@@ -57,8 +57,9 @@ experience:
     location: Quebec
     date_start: '2013-09-01'
     date_end: '2018-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |2-
+        **Responsibilities include:**
+        *
 design:
   columns: '2'
 ---
