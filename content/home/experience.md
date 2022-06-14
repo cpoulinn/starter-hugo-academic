@@ -50,13 +50,13 @@ experience:
         * Devising experiments, analyzing data, preparing equipment for North-Atlantic cruise (part of NASA EXPORTS)
         * Supervising a laboratory technician
 
- - title: Research Professionnal - Communications
+  - title: Research Professionnal - Communications
     company: Université de Sherbrooke
     company_url: 'https://www.usherbrooke.ca/'
     company_logo: usherb
     location: Quebec
     date_start: '2019-01-01'
-    date_end: '2019-05-01'
+    date_end: '2019-04-01'
     description: |2-
         **Responsibilities include:**
         * Helping researchers on their funding proposals
