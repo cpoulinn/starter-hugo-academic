@@ -2,13 +2,7 @@
 title: Carina Poulin, Ph. D.
 role: Bio-optical oceanographer
 avatar_filename: avatar.png
-interests:
-  - Phytoplankton
-  - Cultures
-  - Oceanography
-  - Biology
-  - Optics
-  - Communication
+interests: []
 social:
   - display:
       header: false
@@ -27,16 +21,7 @@ social:
     link: https://scholar.google.ca/citations?user=8iZDE8MAAAAJ&hl=en
 organizations: []
 education:
-  courses:
-    - course: B. Sc. Ecology
-      institution: Université de Sherbrooke
-      year: 2007
-    - course: M. Env. Environmental Research
-      institution: Université de Sherbrooke
-      year: 2012
-    - course: Ph. D. Remote Sensing
-      institution: Université de Sherbrooke
-      year: 2018
+  courses: []
 superuser: true
 ---
 </br>
