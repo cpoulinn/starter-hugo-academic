@@ -22,7 +22,7 @@ content:
     postcode: null
     country: United States
     country_code: US
-  contact_links:
+#  contact_links:
     - icon: linkedin
       icon_pack: fab
       name: Message Me
