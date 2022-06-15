@@ -24,6 +24,6 @@ design:
   columns: "2"
   background:
     image: ""
-    text_color_light: false
+    text_color_light: true
     color: "#22317b"
 ---
