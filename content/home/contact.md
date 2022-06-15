@@ -3,8 +3,8 @@ widget: contact
 widget_id: contact
 headless: true
 weight: 130
-title: <font color=#3063ba>Contact</font>
-subtitle: null
+title: <font color=#3063ba>Contact me</font>
+subtitle: I'm always happy to discuss your ideas
 content:
   autolink: true
   form:
