@@ -18,7 +18,7 @@ content:
   address:
     street: null
     city: null
-    region: Based in Florida, USA
+    region: Florida, USA
     postcode: null
     country: United States
     country_code: US
