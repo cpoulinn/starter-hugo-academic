@@ -22,11 +22,11 @@ content:
     postcode: null
     country: United States
     country_code: US
-#  contact_links:
-    - icon: linkedin
-      icon_pack: fab
-      name: Message Me
-      link: https://www.linkedin.com/in/carina-poulin/
+  contact_links:
+    - icon: null
+      icon_pack: null
+      name: 
+      link: 
 design:
   columns: "2"
   background:
