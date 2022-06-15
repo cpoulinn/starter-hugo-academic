@@ -25,5 +25,5 @@ design:
   background:
     image: ""
     text_color_light: true
-    color: "#22317b"
+    color: "#00009a"
 ---
