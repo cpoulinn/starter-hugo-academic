@@ -48,6 +48,6 @@ Whether you need someone to teach your new trainee about phytoplankton culture w
 * Project management :calendar:
 * Building websites :technologist: 
 * Photography :camera_flash:
-* Translating from French to English :earth_americas: 
+* Translating (French/English) :earth_americas: 
 
 <font color=#20B2AA>Do you have a problem that needs a creative solution? [Let's discuss!](#contact) </font>
