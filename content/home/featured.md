@@ -3,7 +3,7 @@ widget: featured
 widget_id: featured
 headless: true
 weight: 80
-title: <font color=#0000ff>Featured Publications</font>
+title: <font color=#3063ba>Featured Publications</font>
 subtitle: ""
 content:
   page_type: publication
