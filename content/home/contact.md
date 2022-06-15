@@ -3,7 +3,7 @@ widget: contact
 widget_id: contact
 headless: true
 weight: 130
-title: Contact
+title: <font color=#0000ff>Contact</font>
 subtitle: null
 content:
   autolink: true
