@@ -95,4 +95,7 @@ design:
   background:
     image: pexels-edward-jenner-42525252.jpg
     text_color_light: false
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["80px", "0", "80px", "0"]
 ---
