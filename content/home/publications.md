@@ -23,6 +23,7 @@ design:
   view: citation
   columns: "2"
   background:
-    image: pexels-edward-jenner-42525252.jpg
+    image: ""
     text_color_light: false
+    color: "#22317b"
 ---
