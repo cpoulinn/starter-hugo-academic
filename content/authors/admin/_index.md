@@ -37,7 +37,7 @@ superuser: true
 
 Whether you need someone to teach your new trainee about laboratory work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
 
-### <font color=#20B2AA>I can assist with:</font> </br>
+#### <font color=#20B2AA>I can assist with:</font> </br>
 
 ##### **Ocean Science Work**
 
