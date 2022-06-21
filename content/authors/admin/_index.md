@@ -38,14 +38,16 @@ superuser: true
 Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
 
 <font color=#20B2AA>I can assist with:</font>
-
-* Setting up a laboratory :test_tube: 
-* Student and postdoc training :scientist: 
+**Ocean Science work
+* Laboratory set-up :test_tube: 
+* Training people :scientist: 
+* Project management :calendar:
 * Data analysis :bar_chart:
 * Writing articles :computer: 
+
+* **Science Communication:
 * Preparing presentations :placard: 
 * Creating outreach material :seedling: 
-* Project management :calendar:
 * Building websites :technologist: 
 * Photography :camera_flash:
 * Translating (French/English) :earth_americas: 
