@@ -2,7 +2,7 @@
 widget: featured
 widget_id: featured
 headless: true
-weight: 80
+weight: 40
 title: <font color=#3063ba>Featured Publications</font>
 subtitle: ""
 content:
@@ -18,6 +18,9 @@ design:
   view: 3
   columns: "2"
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["80px", "0", "80px", "0"]
+    padding:
+      - 80px
+      - "0"
+      - 80px
+      - "0"
 ---
