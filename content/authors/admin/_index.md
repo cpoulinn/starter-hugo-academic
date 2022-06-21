@@ -47,7 +47,7 @@ Whether you need someone to teach your new trainee about laboratory work, or you
 * Data analysis :bar_chart:
 * Writing articles :computer: 
 
-##### Science Communication:
+##### Science Communication
 
 * Preparing presentations :placard: 
 * Creating outreach material :seedling: 
