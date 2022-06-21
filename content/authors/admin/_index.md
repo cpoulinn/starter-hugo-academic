@@ -35,10 +35,9 @@ superuser: true
 ---
 </br>
 
-Whether you need someone to teach your new trainee about phytoplankton culture work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
+Whether you need someone to teach your new trainee about laboratory work, or you have a previously abandoned paper that needs to be completed and published, I can lend my 10+ years of experience in bio-optical oceanography. 
 
 #### <font color=#20B2AA>I can assist with:</font> </br>
-
 
 ##### **Ocean Science Work**
 
@@ -48,7 +47,7 @@ Whether you need someone to teach your new trainee about phytoplankton culture w
 * Data analysis :bar_chart:
 * Writing articles :computer: 
 
-##### Science Communication: 
+##### Science Communication:
 
 * Preparing presentations :placard: 
 * Creating outreach material :seedling: 
