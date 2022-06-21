@@ -24,6 +24,6 @@ design:
       - 80px
       - "0"
   background:
-    gradient_start: "#20b2aa"
+    gradient_start: rgba(32, 178, 170, 0.55)
     gradient_end: "#ffffff"
 ---
