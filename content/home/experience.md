@@ -88,7 +88,7 @@ experience:
 widget_id: experience
 headless: true
 weight: 40
-title: More about my experience and education
+title: Background
 subtitle: null
 design:
   columns: "2"
