@@ -20,17 +20,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=8iZDE8MAAAAJ&hl=en
 organizations: []
-education:
-  courses:
-    - course: B. Sc. Ecology
-      institution: Université de Sherbrooke
-      year: 2003
-    - course: M. Env. Environmental Research
-      institution: Université de Sherbrooke
-      year: 2008
-    - course: Ph. D. Remote Sensing
-      institution: Université de Sherbrooke
-      year: 2013
+education: []
 superuser: true
 ---
 </br>
