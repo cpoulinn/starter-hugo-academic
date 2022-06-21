@@ -87,7 +87,7 @@ experience:
         * Developing an automated culture chamber with a multidisciplinary team
 widget_id: experience
 headless: true
-weight: 40
+weight: 90
 title: Background
 subtitle: null
 design:
