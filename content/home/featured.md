@@ -26,5 +26,5 @@ design:
   background:
     gradient_start: rgba(32, 178, 170, 0.55)
     gradient_end: "#ffffff"
-    image: pexels-edward-jenner-42525252-copy.jpg
+    image: bckgnd.jpg
 ---
