@@ -41,13 +41,13 @@ header:
 
 # Site footer
 
- footer:
-   copyright:
-    notice: '© {year} Carina Poulin.'
+footer:
+  copyright:
+    notice: '© {year} Carina Poulin
     license:
       enable: false
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
 
 # Localization
