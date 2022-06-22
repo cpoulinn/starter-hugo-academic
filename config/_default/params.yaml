@@ -42,7 +42,7 @@ header:
 # Site footer
 
  footer:
-  copyright:
+   copyright:
     notice: '© {year} Carina Poulin.'
     license:
       enable: false
