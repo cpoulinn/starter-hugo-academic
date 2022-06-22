@@ -16,9 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: ''
+    local_business_type: 'Scientific Consulting'
+    org_name: 'Photic science'
+    description: 'Scientific Consulting, specialized in bio-optical oceanography - Carina Poulin, Ph.D.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -41,14 +41,7 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Carina Poulin.'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+footer: []
 
 # Localization
 
