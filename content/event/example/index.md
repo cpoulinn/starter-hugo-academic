@@ -22,7 +22,8 @@ abstract: >-
   * discussions on the life and legacy of Michael I. Mishchenko
 slides: ""
 url_pdf: ""
-summary: APOLO-2022 will be held August 9-12, 2022 in Washington, DC, USA. The primary topic is remote sensing with light polarization
+summary: APOLO-2022 will be held August 9-12, 2022 in Washington, DC, USA. The
+  primary topic is remote sensing with light polarization
 title: APOLO-2022 - Third Advancement of POLarimetric Observations Conference
 location: Virtual
 date: 2030-08-09T13:00:00.000Z
@@ -35,15 +36,15 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 
-  city: 
-  region: 
-  postcode:
+  street: null
+  city: null
+  region: null
+  postcode: null
   country: United States
 links:
   - url: https://pikesmeetings.wixsite.com/apolo-2022
     name: Meeting website
-    icon: 🖥️
+    icon: star
     icon_pack: fas
 publishDate: 2022-06-27T14:36:39.126Z
 tags: []
