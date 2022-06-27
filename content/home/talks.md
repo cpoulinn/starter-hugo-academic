@@ -3,9 +3,9 @@ widget: pages
 widget_id: talks
 headless: true
 weight: 70
-title: Recent & Upcoming Talks
+title: Meet me at these upcoming conferences
 subtitle: null
-active: false
+active: true
 content:
   page_type: event
   count: 5
