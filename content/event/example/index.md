@@ -22,7 +22,7 @@ abstract: >-
   * discussions on the life and legacy of Michael I. Mishchenko
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: APOLO-2022 will be held August 9-12, 2022 in Washington, DC, USA. The primary topic is remote sensing with light polarization
 title: APOLO-2022 - Third Advancement of POLarimetric Observations Conference
 location: Virtual
 date: 2030-08-09T13:00:00.000Z
@@ -35,15 +35,15 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
+  street: 
+  city: 
+  region: 
+  postcode:
   country: United States
 links:
   - url: https://pikesmeetings.wixsite.com/apolo-2022
     name: Meeting website
-    icon: <i class="fa-solid fa-laptop"></i>
+    icon: 🖥️
     icon_pack: fas
 publishDate: 2022-06-27T14:36:39.126Z
 tags: []
