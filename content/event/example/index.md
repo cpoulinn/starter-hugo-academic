@@ -43,7 +43,7 @@ address:
 links:
   - url: https://pikesmeetings.wixsite.com/apolo-2022
     name: Meeting website
-    icon: ":laptop:"
+    icon: <i class="fa-solid fa-laptop"></i>
     icon_pack: fas
 publishDate: 2022-06-27T14:36:39.126Z
 tags: []
