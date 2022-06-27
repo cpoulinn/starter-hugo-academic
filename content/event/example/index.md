@@ -1,5 +1,25 @@
 ---
-abstract: "-"
+abstract: >-
+  APOLO-2022 will be held August 9-12, 2022 in Washington, DC, USA. The primary
+  topic is remote sensing with light polarization, including, but not limited
+  to:
+
+
+  * advances in the theory of polarimetric remote sensing, 
+
+  * scattering of light by terrestrial aerosols, clouds, oceans, and land surfaces, 
+
+  * polarimetric applications in astrophysics and planetary science,
+
+  * improvement of polarimetric instrumentation quality and information content, 
+
+  * development of advanced retrieval algorithms and data processing, 
+
+  * upcoming and current satellite missions and field campaigns,
+
+  * long-term calibration and validation, and
+
+  * discussions on the life and legacy of Michael I. Mishchenko
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -23,7 +43,7 @@ address:
 links:
   - url: https://pikesmeetings.wixsite.com/apolo-2022
     name: Meeting website
-    icon: ":desktop:"
+    icon: ":laptop:"
     icon_pack: fas
 publishDate: 2022-06-27T14:36:39.126Z
 tags: []
@@ -33,13 +53,3 @@ image:
   focal_point: ""
 url_code: ""
 ---
-APOLO-2022 will be held August 9-12, 2022 in Washington, DC, USA. The primary topic is remote sensing with light polarization, including, but not limited to:
-
-* advances in the theory of polarimetric remote sensing, 
-* scattering of light by terrestrial aerosols, clouds, oceans, and land surfaces, 
-* polarimetric applications in astrophysics and planetary science,
-* improvement of polarimetric instrumentation quality and information content, 
-* development of advanced retrieval algorithms and data processing, 
-* upcoming and current satellite missions and field campaigns,
-* long-term calibration and validation, and
-* discussions on the life and legacy of Michael I. Mishchenko
