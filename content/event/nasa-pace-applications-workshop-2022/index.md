@@ -51,7 +51,7 @@ date_end: 2022-09-15T04:00:00.000Z
 all_day: true
 links:
   - url: https://www.eventbrite.com/e/pace-applications-workshop-2022-tickets-321347487987
-    name: Event website
+    name: Meeting website
     icon_pack: fas
     icon: computer
 event: NASA PACE Applications Workshop 2022
