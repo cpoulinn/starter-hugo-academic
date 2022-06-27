@@ -53,7 +53,7 @@ links:
   - url: https://www.eventbrite.com/e/pace-applications-workshop-2022-tickets-321347487987
     name: Meeting website
     icon_pack: fas
-    icon: marker
+    icon: square-up-right
 event: NASA PACE Applications Workshop 2022
 event_url: https://www.eventbrite.com/e/pace-applications-workshop-2022-tickets-321347487987
 publishDate: 2022-06-27T14:53:55.340Z
