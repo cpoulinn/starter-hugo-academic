@@ -15,7 +15,7 @@ design:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
     text_color_light: true
-    image: starfruit_abstract_impressionnist_painting_of_dreamy_soft_light_032d0dad-b090-4226-9cce-073e7ac38955.png
+    image: starfruit_abstract_watercolor_painting_soft_light_underwater_747b0e57-39bd-49ff-8cde-654c72f37dd7.png
     image_darken: 0
     color: "#ffffff"
   spacing:
