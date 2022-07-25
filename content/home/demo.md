@@ -15,7 +15,7 @@ design:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
     text_color_light: true
-    image: starfruit_abstract_watercolor_painting_soft_light_underwater_747b0e57-39bd-49ff-8cde-654c72f37dd7.png
+    image: starfruit_blue_toned_dreamy_light_rays_underwater_96e96cc7-150c-465c-a561-64845fa0775f.png
     image_darken: 0
     color: "#ffffff"
   spacing:
