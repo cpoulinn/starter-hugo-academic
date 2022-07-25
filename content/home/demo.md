@@ -15,7 +15,7 @@ design:
     gradient_start: "#00ddff"
     gradient_end: "#ffffff"
     text_color_light: true
-    image: starfruit_blue_toned_dreamy_light_rays_underwater_96e96cc7-150c-465c-a561-64845fa0775f.png
+    image: pexels-beckett-5022325-copy.jpeg
     image_darken: 0
     color: "#ffffff"
   spacing:
