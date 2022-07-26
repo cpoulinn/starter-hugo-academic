@@ -18,7 +18,7 @@ content:
     exclude_past: false
     publication_type: ""
   offset: 0
-  order: asc
+  order: desc
 design:
   view: 2
 ---
