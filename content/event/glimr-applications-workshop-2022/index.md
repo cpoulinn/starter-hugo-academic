@@ -38,7 +38,7 @@ abstract: >+
 location: Virtual
 date: 2022-09-16T16:00:00.000Z
 date_end: 2022-09-16T20:00:00.000Z
-all_day: false
+all_day: true
 links:
   - url: https://www.eventbrite.com/e/glimr-applications-workshop-2022-tickets-377349381157
     name: Meeting website
