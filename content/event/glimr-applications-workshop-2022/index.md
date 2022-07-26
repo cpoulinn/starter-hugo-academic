@@ -36,8 +36,8 @@ abstract: >+
   -Networking opportunities and small group discussions for additional feedback
 
 location: Virtual
-date: 2022-09-16T15:12:54.645Z
-date_end: 2022-09-17T04:00:00.000Z
+date: 2022-09-16
+date_end: 2022-09-17
 all_day: true
 links:
   - url: https://www.eventbrite.com/e/glimr-applications-workshop-2022-tickets-377349381157
