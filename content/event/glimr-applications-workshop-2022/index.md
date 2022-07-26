@@ -15,18 +15,25 @@ abstract: >+
 
   The objectives of the workshop are:
 
-      Provide an overview of the GLIMR mission, data, science, and applications
-      Understand critical needs and challenges of communities that are interested in working with GLIMR data and identify ways to address these challenges
-      Promote synergies with other Earth missions, expand community engagement within the GLIMR Communities of Practice and Potential as well as other stakeholders, and identify opportunities for capacity development
+
+  -Provide an overview of the GLIMR mission, data, science, and applications
+
+  -Understand critical needs and challenges of communities that are interested in working with GLIMR data and identify ways to address these challenges
+
+  -Promote synergies with other Earth missions, expand community engagement within the GLIMR Communities of Practice and Potential as well as other stakeholders, and identify opportunities for capacity development
+
 
   The GLIMR Mission will allow stakeholders to address cross-disciplinary research and applied science. This event encourages collaboration across disciplines and invites participation of individuals and organizations with diverse backgrounds and areas of expertise, across different sectors and countries.
 
 
   The workshop will include:
 
-      Keynote presentations on the GLIMR instrument, data products, science and applications foci areas, and multi-mission synergies.
-      Live panel sessions to discuss critical needs and challenges of communities that are interested in working with GLIMR data and identify ways to address these challenges
-      Networking opportunities and small group discussions for additional feedback
+
+  -Keynote presentations on the GLIMR instrument, data products, science and applications foci areas, and multi-mission synergies.
+
+  -Live panel sessions to discuss critical needs and challenges of communities that are interested in working with GLIMR data and identify ways to address these challenges
+
+  -Networking opportunities and small group discussions for additional feedback
 
 location: Virtual
 date: 2022-09-16T15:12:54.645Z
