@@ -35,7 +35,8 @@ Whether you need someone to teach your new trainee about laboratory work, or you
 * Training people :scientist: 
 * Project management :calendar:
 * Data analysis :bar_chart:
-* Writing articles :computer: 
+* Writing/Editing articles :computer: 
+* Support with grant proposals 📑
 
 ##### Science Communication
 
