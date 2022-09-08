@@ -40,7 +40,7 @@ Whether you need someone to teach your new trainee about laboratory work, or you
 
 ##### Science Communication
 
-* Preparing presentations / organizing conferences :placard: 
+* Preparing presentations / Organizing conferences :placard: 
 * Creating outreach material :seedling: 
 * Building websites :technologist: 
 * Photography :camera_flash:
