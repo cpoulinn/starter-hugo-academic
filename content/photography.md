@@ -20,6 +20,5 @@ design:
 
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
 
-# {{< gallery album="photography" >}}
   
 Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
