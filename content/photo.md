@@ -18,8 +18,8 @@ design:
 share: false
 
 gallery_item:
-- album: <photography>
-  image: <pyrocystis>.jpg
+- album: photography
+  image: pyrocystis.jpg
   caption: Pyrocystis fusiformis
 ---
 
