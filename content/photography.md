@@ -13,7 +13,9 @@ title: Photography
 subtitle:
 
 design:
-  columns: '1'
+  columns: '1' 
+
+share: false
 ---
 
 {{< gallery album="photography" resize_options="x250" >}}
