@@ -9,5 +9,6 @@ header:
   caption: ""
   image: ""
 ---
+gallery album="<photography>" resize_options="250x250"
 
 Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
