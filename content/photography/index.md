@@ -1,16 +1,28 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+advanced:
+  css_style: ""
+  css_class: ""
+widget: blank
+widget_id: top
+headless: true
+weight: 15
+title: ""
+subtitle: ""
+active: true
+design:
+  columns: "1"
+  background:
+    gradient_start: "#00ddff"
+    gradient_end: "#ffffff"
+    text_color_light: true
+    image: pexels-beckett-5022325-copy.jpeg
+    image_darken: 0
+    color: "#ffffff"
+  spacing:
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
 {{< gallery album="<photography>" resize_options="250x250" >}}
