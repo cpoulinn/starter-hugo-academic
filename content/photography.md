@@ -13,5 +13,7 @@ header:
 ---
 
 
-{{< gallery album="<photography>" >}}
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
+
+  
 Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
