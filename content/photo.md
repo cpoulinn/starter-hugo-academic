@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Photography
+title: Photo
 subtitle:
 
 design:
@@ -19,8 +19,3 @@ share: false
 ---
 
 {{< gallery album="photography" resize_options="x250" >}}
-
-This is a {{< hl >}}highlighted quote!{{< /hl >}}.
-
-  
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
