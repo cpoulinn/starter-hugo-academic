@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 1
 
 title: Photo
 subtitle:
@@ -19,4 +19,4 @@ share: false
 
 ---
 
-{{< gallery album="photography" resize_options="250x">}}
+{{< gallery album="photography" resize_options="150x">}}
