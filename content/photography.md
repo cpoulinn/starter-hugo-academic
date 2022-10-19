@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="demo" >}}
+{{< gallery album="photography" >}}
 
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
 
