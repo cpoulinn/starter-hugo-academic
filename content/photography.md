@@ -1,16 +1,21 @@
 ---
+# An instance of the Blank widget with a Gallery page element.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
+
+# This file represents a page section.
 headless: true
-title: Photography
-date: 2018-06-28T00:00:00+01:00
-draft: false
-share: false
-commentable: false
-editable: false
-header:
-  caption: ""
-  image: ""
+
+# Order that this section appears on the page.
+weight: 66
+
+title: Gallery
+subtitle:
+
+design:
+  columns: '1'
 ---
+
 
 
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
