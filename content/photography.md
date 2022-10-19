@@ -8,8 +8,6 @@ editable: false
 header:
   caption: ""
   image: ""
-gallery_item:  
-- album: 'photography'
 ---
 
 
