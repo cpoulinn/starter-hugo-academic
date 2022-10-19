@@ -12,6 +12,9 @@ weight: 1
 title: Photo
 subtitle:
 
+design:
+  columns: '2' 
+
 share: false
 
 ---
