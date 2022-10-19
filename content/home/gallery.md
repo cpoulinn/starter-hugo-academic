@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 250
 
-title: Gallery
+title: Photography
 subtitle:
 
 design:
