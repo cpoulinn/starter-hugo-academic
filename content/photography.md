@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Gallery
+title: Photography
 subtitle:
 
 design:
   columns: '1'
 ---
 
-{{< gallery album="photography" >}}
+{{< gallery album="photography" resize_options="x250" >}}
 
 This is a {{< hl >}}highlighted quote!{{< /hl >}}.
 
