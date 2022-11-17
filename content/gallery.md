@@ -16,7 +16,7 @@ design:
   columns: '1'
   
 advanced:
-  css_class: '.article-container {
+  css_class: 'div.article-container {
   max-width: 1760px;
   padding: 0 20px;
   margin: 0 auto;
