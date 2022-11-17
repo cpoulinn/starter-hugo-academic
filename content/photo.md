@@ -13,7 +13,7 @@ title: Photo
 subtitle:
 
 design:
-  columns: '2' 
+  view: masonry
 
 share: false
 
