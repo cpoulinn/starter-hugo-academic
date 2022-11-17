@@ -13,7 +13,7 @@ title: Photo
 subtitle:
 
 design:
-  view: compact
+  view: showcase
 
 share: false
 
