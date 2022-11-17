@@ -14,6 +14,14 @@ subtitle:
 
 design:
   columns: '1'
+  
+advanced:
+  css_style: '.article-container {
+  max-width: 1760px;
+  padding: 0 20px;
+  margin: 0 auto;
+}'
 ---
 
 {{< gallery album="photography" >}}
+
