@@ -13,7 +13,7 @@ title: Photo
 subtitle:
 
 design:
-  view: masonry
+  view: compact
 
 share: false
 
