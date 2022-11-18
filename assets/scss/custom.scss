@@ -246,7 +246,8 @@ caption {
  *  Added by Carina
  **************************************************/
 
-.gallery img {
-  min-height: 25px;
-  min-width: 25px;
+.card .card-image {
+display: block;
+position: relative;
+margin: auto;
 }
