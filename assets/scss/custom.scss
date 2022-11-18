@@ -246,8 +246,6 @@ caption {
  *  Added by Carina
  **************************************************/
 
-.card .card-image {
-display: block;
-position: relative;
-margin: auto;
-}
+.gallery a[data-fancybox] img {
+  height: auto;
+  width: 400px;
