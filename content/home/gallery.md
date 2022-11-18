@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "1"
   background:
-    color: "#3063ba"
+    color: rgba(48, 99, 186, 0)
 ---
 {{< gallery album="photo_select" resize_options="x600" >}}
 
