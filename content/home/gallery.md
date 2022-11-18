@@ -10,7 +10,7 @@ design:
   background:
     color: rgba(48, 99, 186, 0)
 ---
-{{< gallery album="photo_select" resize_options="x600" >}}
+{{< gallery album="photo_select" resize_options="x400" >}}
 
 
 
