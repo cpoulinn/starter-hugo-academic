@@ -19,4 +19,4 @@ share: false
 
 ---
 
-{{< gallery album="photography" resize_options="x600" >}}
+{{< gallery album="photography" resize_options="x500" >}}
