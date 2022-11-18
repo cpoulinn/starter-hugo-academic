@@ -10,4 +10,3 @@ design:
 ---
 {{< gallery album="photo_select" >}}
 
-[See more](www.photic.science/photo)
