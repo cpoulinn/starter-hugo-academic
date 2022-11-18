@@ -2,7 +2,7 @@
 widget: contact
 widget_id: contact
 headless: true
-weight: 130
+weight: 180
 title: <font color=#3063ba>Contact me</font>
 subtitle: I'm always happy to discuss your ideas
 content:
@@ -23,10 +23,10 @@ content:
     country: United States
     country_code: US
   contact_links:
-    - icon: null
-      icon_pack: null
-      name: 
-      link: 
+    - ? icon
+      ? icon_pack
+      ? name
+      ? link
 design:
   columns: "2"
   background:
