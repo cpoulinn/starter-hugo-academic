@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{< gallery album="portfolio" resize_options="600x" >}}
+{{< gallery album="portfolio" resize_options="x800" >}}
