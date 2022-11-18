@@ -1,17 +1,13 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
+widget_id: photo
 headless: true
-
-# Order that this section appears on the page.
 weight: 250
-
 title: Photography
-subtitle:
-
+subtitle: null
 design:
-  columns: '1'
+  columns: "1"
 ---
+{{< gallery album="photo_select" >}}
 
-{{< gallery album="photography" >}}
+[See more](www.photic.science/photo)
