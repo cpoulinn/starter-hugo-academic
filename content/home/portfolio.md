@@ -2,7 +2,7 @@
 widget: blank
 widget_id: portfolio
 headless: true
-weight: 200
+weight: 160
 title: Graphic Design Portfolio
 subtitle: null
 design:
