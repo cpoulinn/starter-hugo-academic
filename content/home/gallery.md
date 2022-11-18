@@ -13,5 +13,5 @@ design:
 {{< gallery album="photo_select" resize_options="x500" >}}
 
 
-
-[See more photos](/photo)
+[  
+See more photos](/photo)
