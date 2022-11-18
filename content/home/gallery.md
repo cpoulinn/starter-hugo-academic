@@ -2,7 +2,7 @@
 widget: blank
 widget_id: photo
 headless: true
-weight: 250
+weight: 150
 title: Photo
 subtitle: null
 design:
