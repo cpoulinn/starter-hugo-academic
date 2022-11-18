@@ -3,7 +3,7 @@ widget: blank
 widget_id: photo
 headless: true
 weight: 250
-title: Photography
+title: Photo
 subtitle: null
 design:
   columns: "1"
