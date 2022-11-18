@@ -10,8 +10,8 @@ design:
   background:
     color: "#3063ba"
 ---
-{{< gallery album="photo_select" >}}
+{{< gallery album="photo_select" resize_options="x600" >}}
 
 
 
-[See more](/photo)
+[See more photos](/photo)
