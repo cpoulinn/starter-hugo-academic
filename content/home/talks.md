@@ -1,11 +1,10 @@
 ---
 widget: pages
 widget_id: talks
-headless: true
 weight: 70
 title: Meet me at these upcoming conferences
 subtitle: null
-active: true
+active: false
 content:
   page_type: event
   count: 5
@@ -19,6 +18,7 @@ content:
     publication_type: ""
   offset: 0
   order: desc
+headless: true
 design:
   view: 2
 ---
