@@ -262,9 +262,8 @@ caption {
     opacity: 1;
   }
 }
-
 .featurette-icon {
   opacity: 0;
-  animation: fade-in;
+  animation: fade-in 1s forwards;
   animation-delay: 200ms;
 }
