@@ -262,8 +262,8 @@ caption {
     opacity: 1;
   }
 }
-.featurette-icon {
-  opacity: 0;
+.featurette-icon:hover {
+  opacity: 50;
   animation: fade-in 1s forwards;
   animation-delay: 200ms;
 }
