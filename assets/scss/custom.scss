@@ -250,3 +250,19 @@ caption {
   height: auto;
   width: 400px;
 }
+
+*Animation test
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.featurette-icon {
+  opacity: 0;
+  animation: fade-in 1s forwards;
+  animation-delay: 200ms;
+}
