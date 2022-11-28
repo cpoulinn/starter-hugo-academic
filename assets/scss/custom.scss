@@ -255,15 +255,15 @@ caption {
 */
 
 @keyframes fade-in {
-  0% {
-    opacity: 0;
+  10% {
+    opacity: 10;
   }
   100% {
     opacity: 1;
   }
 }
-.col-12:hover {
+.col-12 {
   opacity: 50;
   animation: fade-in 1s forwards;
-  animation-delay: 200ms;
+  animation-delay: 400ms;
 }
