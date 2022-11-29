@@ -14,4 +14,4 @@ design:
 
 
 [  
-See more photos](/photo)
+More photos](/photo)
