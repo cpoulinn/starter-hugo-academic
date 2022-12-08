@@ -21,9 +21,6 @@ advanced:
   padding: 0 20px;
   margin: 0 auto;
 }'
-<!-- Import the component -->
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
 ---
 
 
