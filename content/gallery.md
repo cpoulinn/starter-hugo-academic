@@ -14,6 +14,8 @@ subtitle:
 
 design:
   columns: '1'
+
+share: false
   
 advanced:
   css_class: 'div.article-container {
