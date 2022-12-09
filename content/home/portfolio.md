@@ -9,6 +9,8 @@ design:
   columns: "1"
   background:
     color: "#3063ba"
+  justify-content: center;
+
 ---
 {{< gallery album="portfolio" resize_options="x900" >}}
 
